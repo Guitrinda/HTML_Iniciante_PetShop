@@ -6,3 +6,9 @@
 <br>
 <p> Essa página foi criada para treinar a inserção de tags, imagens, editar margens,bordas e padding de uma página HTML.<br>
 Além de aplicar estilos através da configuração de um arquivo .css </p>
+
+## ✔️ Técnicas e tecnologias utilizadas
+
+- ``HTML``
+- ``CSS``
+
