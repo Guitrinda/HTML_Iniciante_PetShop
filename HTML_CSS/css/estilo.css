@@ -1,0 +1,38 @@
+header{ background: linear-gradient(to right, #f4b49c,#f2cf8d,#1a5fb5)}
+
+h1{
+    font-family: Arial, Helvetica, sans-serif; font-size: 20px;
+    color:#1a5fb5; text-align: left;}
+
+h2{
+    font-family: Arial, Helvetica, sans-serif;font-size: 15px;
+    color: #1a5fb5;text-align: left;}
+
+p{ font-family: Arial, Helvetica, sans-serif; font-size: 14px;}
+
+h6{text-align: right; padding-right: 2%;}
+
+img{display: block; margin: 0 auto; size:0vmax;}
+
+body { background-color: white;}
+
+footer{display:block;text-align: center;
+     background: linear-gradient(to right, #f4b49c,#f2cf8d,#1a5fb5 )}
+
+div	{
+    display: block;
+    margin: 0 auto;
+    text-align: justify;
+    width: 86%;
+    padding: 2%;
+    background-color: whitesmoke;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+}    
+
+
+*{
+    margin: 0;
+    border: 0;
+    padding: 0;
+}
