@@ -1,4 +1,5 @@
-![Imagem escrito a sigla HTML]https://th.bing.com/th/id/R.b994fc27c1433661dd9130feea9524fe?rik=cZQbP6sLN85j7A&pid=ImgRaw&r=0
+![Imagem escrito a sigla HTML](https://github.com/user-attachments/assets/e828cd2a-5054-427e-a9d8-c11a9f31725b)
+
 <H1>Projeto PetShop</H1>
 <br>
 <p> Página simples para <strong>iniciantes</strong> em html/CSS</p>
